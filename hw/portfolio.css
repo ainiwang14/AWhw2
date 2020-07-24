@@ -54,11 +54,11 @@ a:hover {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #4272a9;
+    background-color: #345386;
     background-clip: border-box;
     border: 2px solid rgba(0,0,0,.125);
     border-radius: 1.2rem;
-    border-color: #345386;
+    border-color: #0d344a;
     margin: 5px;
     text-align: center;
 }
