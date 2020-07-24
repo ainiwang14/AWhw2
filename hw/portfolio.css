@@ -1,0 +1,17 @@
+body {
+    background-image: url(assets/edouard-tamba-Q8gsXy6C2g0-unsplash.jpg);
+    background-size: cover;
+    margin: 0;
+    font-family: "Scheherazade",sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #f8f8ff;
+    text-align: left;
+}
+
+.navbar-dark .navbar-brand {
+    color: #f8f8ff;
+    font-family: "Lexend Zetta", sans-serif;
+}
+
