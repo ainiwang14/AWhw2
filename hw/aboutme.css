@@ -44,3 +44,17 @@ body .container {
     max-width: 100%;
     height: auto;
 }
+
+@media screen and (max-width:768px) {
+    body {
+        background-image: none;
+        background-color:#0e0d26;
+    }
+}
+
+@media screen and (max-width:640px) {
+    body {
+        background-image: none;
+        background-color:#0d344a;
+    }
+}

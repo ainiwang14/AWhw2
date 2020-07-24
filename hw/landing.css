@@ -9,12 +9,6 @@ a {
     background-color: transparent;
 }
 
-.btn-outline-light:hover {
-    color: #212529;
-    background-color: transparent;
-    border-color: transparent;
-}
-
 .btn {
     display: inline-block;
     font-weight: 400;
@@ -38,5 +32,18 @@ a {
 a:hover {
     text-decoration: none;
     color: #c07597;
+}
+
+@media screen and (max-width:768px) {
+    body {
+        background-image: none;
+        background-color:#0e0d26;
+    }
+}
+
+@media screen and (max-width:640px) {
+    body {
+        background-image: none;
+        background-color:#0d344a;
     }
 }
