@@ -35,3 +35,12 @@ body .container {
     font-size: 1rem;
     font-family: "Lexend Zetta", sans-serif;
 }
+
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #345386;
+    border: 1px solid #0d344a;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
